@@ -17,7 +17,14 @@
 
   <p>
     <a href="https://muneerkhaled.netlify.app/" target="_blank">
-      🌐 Portfolio
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/732/732212.png"
+        alt="Chrome"
+        width="18"
+        height="18"
+        style="vertical-align: middle; margin-right: 6px;"
+      />
+      Portfolio
     </a>
     ·
     <a href="https://t.me/MuneerKhaled" target="_blank">
