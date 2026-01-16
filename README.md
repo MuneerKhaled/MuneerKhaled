@@ -12,17 +12,18 @@ and <strong>real-world reliability</strong>.
 <!-- Social Links -->
 <p>
   <a href="https://t.me/MuneerKhaled">
-    <img src="https://img.shields.io/badge/MuneerKhaled-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MuneerKhaled-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muneerkhaled">
-    <img src="https://img.shields.io/badge/Muneer%20Khaled-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MuneerKhaled-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://muneerkhaled.netlify.app/">
-    <img src="https://img.shields.io/badge/muneerkhaled.netlify.app-000000?style=flat&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/muneerkhaled-2B2B2B?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=MuneerKhaled&style=flat&color=orange&label=PROFILE+VIEWS"/>
+
 
 
 
