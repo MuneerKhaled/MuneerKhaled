@@ -12,13 +12,13 @@ and <strong>real-world reliability</strong>.
 <!-- Social Links -->
 <p>
   <a href="https://t.me/MuneerKhaled">
-    <img src="https://img.shields.io/badge/📨-Telegram%20%7C%20MuneerKhaled-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-MuneerKhaled-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muneerkhaled">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn%20%7C%20Muneer%20Khaled-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muneer%20Khaled-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://muneerkhaled.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐-Portfolio%20%7C%20Visit-000000?style=flat&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -70,4 +70,4 @@ class MuneerKhaled:
     tools = ["Git", "GitHub", "VS Code"]
 
     def mindset(self):
-        return "Build scalable, clean, real-world systems"
+        return "Build scalable, clean, real-world systems" 
