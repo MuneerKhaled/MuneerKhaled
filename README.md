@@ -70,6 +70,7 @@
 <ul>
   <li>🐍 Backend development with <strong>Python & FastAPI</strong></li>
   <li>☕ Strong foundation in <strong>Java</strong></li>
+  <li>🌐 Frontend basics: <strong>HTML, CSS, JavaScript</strong></li>
   <li>🗄 Databases: <strong>PostgreSQL</strong> & <strong>MongoDB</strong></li>
   <li>🐧 Comfortable working in <strong>Linux</strong> environments</li>
   <li>🎯 Goal: build production-ready backend systems</li>
@@ -80,6 +81,10 @@
 <h2>🧰 Tech Stack</h2>
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
@@ -96,7 +101,7 @@
 <pre><code class="language-python">
 class BackendEngineer:
     def __init__(self):
-        self.languages = ["Python", "Java", "SQL"]
+        self.languages = ["Python", "Java", "HTML", "CSS", "JavaScript", "SQL"]
         self.frameworks = ["FastAPI"]
         self.databases = ["PostgreSQL", "MongoDB"]
         self.principles = [
