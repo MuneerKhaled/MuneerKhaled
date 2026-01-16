@@ -30,6 +30,17 @@
       />
       Telegram
     </a>
+    ·
+    <a href="https://www.linkedin.com/in/muneerkhaled" target="_blank">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+        alt="LinkedIn"
+        width="18"
+        height="18"
+        style="vertical-align: middle; margin-right: 6px;"
+      />
+      LinkedIn
+    </a>
   </p>
 
   <img
