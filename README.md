@@ -61,16 +61,16 @@ and <strong>real-world reliability</strong>.
 ---
 
 ```python
-# About Me (Backend Version)
-
 class MuneerKhaled:
-    role = "Backend Engineer"
-    education = "Computer Engineering Student"
+    """
+    Core: Distributed Systems & High-Performance APIs.
+    Target: 99.9% Uptime & Sub-100ms Latency.
+    """
+    def __init__(self):
+        self.role       = "Backend Engineer"
+        self.education  = "Computer Engineering Student"
+        self.stack      = ["FastAPI", "Python", "PostgreSQL", "Redis"]
+        self.focus      = "Scalable Microservices"
 
-    languages = ["Python", "Java", "JavaScript"]
-    frameworks = ["FastAPI"]
-    web = ["HTML", "CSS"]
-    tools = ["Git", "GitHub", "VS Code"]
-
-    def mindset(self):
-        return "Build scalable, clean, real-world systems" 
+    def get_mindset(self) -> str:
+        return "Write code for humans; optimize systems for scale."
