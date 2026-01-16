@@ -34,7 +34,7 @@ and <strong>real-world reliability</strong>.
 ###  Tech Stack
 
 ####  Backend & Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
