@@ -3,8 +3,7 @@
 # Hey, I'm Muneer Khaled 
 
 ### Backend Developer 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Backend+Developer;Building+with+Python+and+FastAPI;Learning+Systems+and+Architecture;Creating+Projects+and+Solving+Problems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1800&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer)](https://git.io/typing-svg)
 </div>
 
 ---
