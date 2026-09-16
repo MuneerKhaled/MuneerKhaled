@@ -69,39 +69,26 @@ class MuneerKhaled:
 
 ## Projects
 
-* **E-commerce API**
+- **E-commerce API**  
   Backend API for products, users, carts, orders, and e-commerce operations.
 
-* **Authentication API**
+- **Authentication API**  
   Backend API for user authentication and authorization.
 
-* **Online Code Compiler**
+- **Online Code Compiler**  
   Backend service for compiling and executing code through an API.
 
-* **Messaging Platform**
+- **Messaging Platform**  
   Backend system for real-time messaging and communication.
 
-* **File Storage API**
+- **File Storage API**  
   Backend API for uploading, storing, and managing files.
 
-* **Weather API**
-  API that provides weather information using an external weather service.
-
-* **Social Media API**
+- **Social Media API**  
   Backend API for users, posts, interactions, and social media functionality.
 
-* **Task Management API**
-  REST API for managing users, tasks, and task operations.
-
-* **Food Delivery API**
-  Backend API for restaurants, food items, orders, and delivery operations.
-
-* **URL Shortener**
+- **URL Shortener**  
   Backend service for generating and managing shortened URLs.
-
-* **First API**
-  A foundational REST API project focused on backend and API development.
-
 ---
 
 ## Current Goals
