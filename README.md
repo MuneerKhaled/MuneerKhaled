@@ -17,8 +17,20 @@
 class MuneerKhaled:
     name = "Muneer Khaled"
     role = "Backend Developer"
-    focus = ["Backend Development", "REST APIs", "Databases", "Problem Solving"]
-    learning = ["FastAPI", "Node.js", "PostgreSQL", "Docker", "AWS"]
+
+    focus = [
+        "Backend Development",
+        "REST APIs",
+        "Databases",
+        "Cloud & DevOps"
+    ]
+
+    learning = [
+        "FastAPI",
+        "Node.js",
+        "Docker",
+        "AWS"
+    ]
 
     def say_hello(self):
         print("Thanks for visiting my profile!")
