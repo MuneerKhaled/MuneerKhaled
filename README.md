@@ -1,48 +1,53 @@
+Copy everything inside this box and paste it directly into your GitHub `README.md`:
+
+````markdown
 <div align="center">
 
-# Hey, I'm Muneer Khaled 
+# Hey, I'm Muneer Khaled
 
-### Backend Developer 
+### Backend Developer
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1800&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 ```python
 class MuneerKhaled:
     name = "Muneer Khaled"
-    role = "Aspiring Backend & Web Developer"
-    focus = ["Backend Development", "APIs", "Problem Solving"]
-    learning = ["Node.js", "Databases", "Cloud Basics (AWS)"]
+    role = "Backend Developer"
+    focus = ["Backend Development", "REST APIs", "Databases", "Problem Solving"]
+    learning = ["FastAPI", "Node.js", "PostgreSQL", "Docker", "AWS"]
 
     def say_hello(self):
-        print("Thanks for visiting my profile! ")
-```
+        print("Thanks for visiting my profile!")
+````
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-###  Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-###  Backend & Frameworks
+### Backend & Frameworks
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-###  Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -52,35 +57,64 @@ class MuneerKhaled:
 
 ---
 
-##  Projects
+## Projects
 
-* 🔹 **Task Manager API**
-  REST API with authentication using Node.js & MongoDB
+* **E-commerce API**
+  Backend API for products, users, carts, orders, and e-commerce operations.
 
-* 🔹 **Blog API**
-  Backend service built with FastAPI & PostgreSQL
+* **Authentication API**
+  Backend API for user authentication and authorization.
 
-* 🔹 **Portfolio Website**
-  Personal website using HTML, CSS, JavaScript
+* **Online Code Compiler**
+  Backend service for compiling and executing code through an API.
+
+* **Messaging Platform**
+  Backend system for real-time messaging and communication.
+
+* **File Storage API**
+  Backend API for uploading, storing, and managing files.
+
+* **Weather API**
+  API that provides weather information using an external weather service.
+
+* **Social Media API**
+  Backend API for users, posts, interactions, and social media functionality.
+
+* **Task Management API**
+  REST API for managing users, tasks, and task operations.
+
+* **Food Delivery API**
+  Backend API for restaurants, food items, orders, and delivery operations.
+
+* **URL Shortener**
+  Backend service for generating and managing shortened URLs.
+
+* **First API**
+  A foundational REST API project focused on backend and API development.
 
 ---
 
-##  Current Goals
+## Current Goals
 
-*  Strengthen backend development skills
-*  Build real-world projects
-*  Learn cloud deployment using AWS
-*  Improve problem-solving skills
+* Strengthen backend development skills
+* Build real-world backend applications
+* Develop scalable REST APIs
+* Improve database and system design skills
+* Learn cloud deployment using AWS
+* Learn Docker and DevOps fundamentals
+* Improve problem-solving skills
 
+---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muneerkhaled)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muneerkhaled5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuneerKhaled)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muneerkhaled5@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MuneerKhaled)
 
 </div>
-
-
+```
