@@ -94,14 +94,14 @@ class MuneerKhaled:
 
 ## Current Goals
 
-* Strengthen backend development skills
-* Build real-world backend applications
-* Develop scalable REST APIs
-* Improve database and system design skills
-* Learn cloud deployment using AWS
-* Learn Docker and DevOps fundamentals
-* Improve problem-solving skills
+## Current Goals
 
+
+- Build real-world backend projects
+- Develop secure and scalable REST APIs
+- Improve database and system design skills
+- Learn AWS and cloud deployment
+- Build strong Docker and DevOps skills
 ---
 
 ## Connect With Me
