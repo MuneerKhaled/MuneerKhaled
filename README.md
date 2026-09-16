@@ -65,20 +65,13 @@ class MuneerKhaled:
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 *  Strengthen backend development skills
 *  Build real-world projects
 *  Learn cloud deployment using AWS
 *  Improve problem-solving skills
 
----
-
-## 📊 GitHub Stats
-
-![Muneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuneerKhaled\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
