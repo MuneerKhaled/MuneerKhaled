@@ -94,7 +94,6 @@ class MuneerKhaled:
 
 ## Current Goals
 
-## Current Goals
 
 
 - Build real-world backend projects
