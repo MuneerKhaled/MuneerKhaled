@@ -99,6 +99,4 @@ class MuneerKhaled:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MuneerKhaled)
 
 </div>
-##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneerKhaled&show_icons=true&theme=dark)
