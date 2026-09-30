@@ -1,240 +1,104 @@
-<div align="center">
 
-# Hey, I'm Muneer Khaled 👋
 
-### Backend Developer | Python | FastAPI | PostgreSQL
+\<div align="center">
 
-Building backend systems, REST APIs, and scalable applications.
+\# Hey, I'm Muneer Khaled
 
-<p>
-  <a href="https://github.com/MuneerKhaled">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/muneerkhaled">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+\### Backend Developer
 
-</div>
+[![Typing SVG]\([https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1800&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer)\](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=26\&pause=1800\&color=3B82F6\&center=true\&vCenter=true\&width=500\&lines=Backend+Developer\)]\(https://git.io/typing-svg))
 
----
+\</div>
 
-## 👨‍💻 About Me
+\---
 
-I'm a Computer Engineering student focused on **backend development** and building practical software systems.
+\## About Me
 
-My main interests are:
+\`\`\`python
+class MuneerKhaled:
+    name = "Muneer Khaled"
+    role = "Backend Developer"
+    focus = ["Backend Development", "REST APIs", "Databases", "Problem Solving"]
+    learning = ["FastAPI", "PostgreSQL", "Docker", "AWS", "DevOps"]
 
-* 🔹 Backend development with Python
-* 🔹 REST API design and development
-* 🔹 Database design and management
-* 🔹 Authentication and authorization
-* 🔹 Docker and containerization
-* 🔹 Cloud computing and AWS
-* 🔹 DevOps and deployment
-* 🔹 System design and scalability
+    def say_hello(self):
+        print("Thanks for visiting my profile!")
+\`\`\`\`
 
-I'm currently working toward becoming a **Backend → Cloud → DevOps Engineer**.
+\---
 
----
+\## Tech Stack
 
-## 🛠️ Tech Stack
+\### Languages
 
-### Languages
+![Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge\\&logo=python\\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\\\&logo=python\\\&logoColor=white))
+![JavaScript]\([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\\&logo=javascript\\&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\\\&logo=javascript\\\&logoColor=black))
+![HTML5]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\\&logo=html5\\&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\\\&logo=html5\\\&logoColor=white))
+![CSS3]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\&logo=css3\\&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white))
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+\### Backend & Frameworks
 
-### Backend
+![FastAPI]\([https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\\&logo=fastapi\\&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\\\&logo=fastapi\\\&logoColor=white))
+![REST API]\([https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\\&logo=fastapi\\&logoColor=white](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\\\&logo=fastapi\\\&logoColor=white))
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
-</p>
+\### Databases
 
-### Databases
+![PostgreSQL]\([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\\&logo=postgresql\\&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\\\&logo=postgresql\\\&logoColor=white))
+![MongoDB]\([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\\&logo=mongodb\\&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\\\&logo=mongodb\\\&logoColor=white))
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+\### Tools
 
-### DevOps & Cloud
+![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-badge\\&logo=git\\&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\\\&logo=git\\\&logoColor=white))
+![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\&logo=github\\&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github\\\&logoColor=white))
+![Docker]\([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\\&logo=docker\\&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\\\&logo=docker\\\&logoColor=white))
+![Linux]\([https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\\&logo=linux\\&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\\\&logo=linux\\\&logoColor=black))
+![Postman]\([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\\&logo=postman\\&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\\\&logo=postman\\\&logoColor=white))
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+\---
 
-### Tools
+\## Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-</p>
+\* \*\*E-commerce API\*\*
+  Backend API for products, users, carts, orders, and e-commerce operations.
 
----
+\* \*\*Authentication API\*\*
+  Backend API for user authentication and authorization.
 
-## 🚀 Projects
+\* \*\*Online Code Compiler\*\*
+  Backend service for compiling and executing code through an API.
 
-### 🛒 E-commerce API
+\* \*\*Messaging Platform\*\*
+  Backend system for real-time messaging and communication.
 
-A production-style backend API for an e-commerce platform.
+\* \*\*File Storage API\*\*
+  Backend API for uploading, storing, and managing files.
 
-**Focus:** Products, users, authentication, carts, orders, database relationships, and API architecture.
+\* \*\*Social Media API\*\*
+  Backend API for users, posts, interactions, and social media functionality.
 
-**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy • Docker
+\* \*\*URL Shortener\*\*
+  Backend service for generating and managing shortened URLs.
 
----
+\---
 
-### 🔐 Authentication API
+\## Current Goals
 
-A secure authentication backend focused on user management and authorization.
+\* Build real-world backend projects
+\* Develop secure and scalable REST APIs
+\* Improve database and system design skills
+\* Learn AWS and cloud deployment
+\* Build strong Docker and DevOps skills
 
-**Focus:** User registration, login, password security, JWT authentication, roles, and protected routes.
+\---
 
-**Tech:** Python • FastAPI • PostgreSQL • JWT
+\## Connect With Me
 
----
+\<div align="center">
 
-### 💻 Online Code Compiler
+[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\&logo=linkedin\\&logoColor=white)\](https://linkedin.com/in/muneerkhaled](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white\)]\(https://linkedin.com/in/muneerkhaled))
+[![Gmail]\([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\\&logo=gmail\\&logoColor=white)\](https://mail.google.com/mail/?view=cm&fs=1&to=muneerkhaled5@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\\\&logo=gmail\\\&logoColor=white\)]\(https://mail.google.com/mail/?view=cm\&fs=1\&to=muneerkhaled5@gmail.com))
+[![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\&logo=github\\&logoColor=white)\](https://github.com/MuneerKhaled](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github\\\&logoColor=white\)]\(https://github.com/MuneerKhaled))
 
-A backend service that allows users to submit source code and execute it through an API.
+\</div>
 
-**Focus:** Code execution, API design, process isolation, validation, and security.
 
-**Tech:** Python • FastAPI • Docker • REST API
-
----
-
-### 💬 Messaging Platform
-
-A backend system designed for real-time communication between users.
-
-**Focus:** Users, conversations, messages, authentication, and real-time communication.
-
-**Tech:** Python • FastAPI • WebSockets • PostgreSQL
-
----
-
-### 📁 File Storage API
-
-A backend service for uploading, storing, retrieving, and managing files.
-
-**Focus:** File uploads, validation, storage architecture, metadata, and access control.
-
-**Tech:** Python • FastAPI • PostgreSQL • Docker
-
----
-
-### 🌐 Social Media API
-
-A backend API for a social platform.
-
-**Focus:** Users, posts, comments, likes, followers, authentication, and database relationships.
-
-**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy
-
----
-
-### 🔗 URL Shortener
-
-A lightweight backend service for creating and managing shortened URLs.
-
-**Focus:** URL generation, redirects, database indexing, analytics, and API design.
-
-**Tech:** Python • FastAPI • PostgreSQL
-
----
-
-## 🎯 Current Focus
-
-```text
-Backend Development
-       ↓
-REST APIs & System Design
-       ↓
-PostgreSQL & Database Design
-       ↓
-Docker & Containerization
-       ↓
-AWS & Cloud Computing
-       ↓
-DevOps & CI/CD
-```
-
-### Currently learning
-
-* 🐍 Advanced Python
-* ⚡ FastAPI
-* 🐘 PostgreSQL
-* 🐳 Docker
-* ☁️ AWS
-* 🔧 Linux
-* 🔄 CI/CD
-* 🚀 DevOps
-* 🏗️ System Design
-
----
-
-## 📈 What I'm Working Toward
-
-I want to build backend systems that are:
-
-* Secure
-* Scalable
-* Maintainable
-* Well documented
-* Properly tested
-* Production ready
-
-My long-term direction is **Backend Development → Cloud Engineering → DevOps**.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuneerKhaled&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Muneer's GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneerKhaled&layout=compact&theme=transparent&hide_border=true" alt="Muneer's Top Languages">
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/muneerkhaled">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:muneerkhaled5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/MuneerKhaled">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-###
