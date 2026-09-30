@@ -1,107 +1,101 @@
+<div align="center">
 
+# Hey, I'm Muneer Khaled
 
-\<div align="center">
+### Backend Developer
 
-\# Hey, I'm Muneer Khaled
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1800&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer)](https://git.io/typing-svg)
 
-\### Backend Developer
+</div>
 
-[![Typing SVG]\([https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1800&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer)\](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=26\&pause=1800\&color=3B82F6\&center=true\&vCenter=true\&width=500\&lines=Backend+Developer\)]\(https://git.io/typing-svg))
+---
 
-\</div>
+## About Me
 
-\---
-
-\## About Me
-
-\`\`\`python
+```python
 class MuneerKhaled:
-    name = "Muneer Khaled"
-    role = "Backend Developer"
-    focus = ["Backend Development", "REST APIs", "Databases", "Problem Solving"]
-    learning = ["FastAPI", "PostgreSQL", "Docker", "AWS", "DevOps"]
+name = "Muneer Khaled"
+role = "Backend Developer"
+focus = ["Backend Development", "REST APIs", "Databases", "Problem Solving"]
+learning = ["FastAPI", "PostgreSQL", "Docker", "AWS", "DevOps"]
 
-    def say_hello(self):
-        print("Thanks for visiting my profile!")
-\`\`\`\`
+def say_hello(self):
+    print("Thanks for visiting my profile!")
 
-\---
+````
 
-\## Tech Stack
+---
 
-\### Languages
+## Tech Stack
 
-![Python]\([https://img.shields.io/badge/Python-3776AB?style=for-the-badge\\&logo=python\\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\\\&logo=python\\\&logoColor=white))
-![JavaScript]\([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\\&logo=javascript\\&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\\\&logo=javascript\\\&logoColor=black))
-![HTML5]\([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\\&logo=html5\\&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\\\&logo=html5\\\&logoColor=white))
-![CSS3]\([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\&logo=css3\\&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white))
+### Languages
 
-\### Backend & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-![FastAPI]\([https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\\&logo=fastapi\\&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\\\&logo=fastapi\\\&logoColor=white))
-![REST API]\([https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\\&logo=fastapi\\&logoColor=white](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\\\&logo=fastapi\\\&logoColor=white))
+### Backend & Frameworks
 
-\### Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-![PostgreSQL]\([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\\&logo=postgresql\\&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\\\&logo=postgresql\\\&logoColor=white))
-![MongoDB]\([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\\&logo=mongodb\\&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\\\&logo=mongodb\\\&logoColor=white))
+### Databases
 
-\### Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-![Git]\([https://img.shields.io/badge/Git-F05032?style=for-the-badge\\&logo=git\\&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\\\&logo=git\\\&logoColor=white))
-![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\&logo=github\\&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github\\\&logoColor=white))
-![Docker]\([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\\&logo=docker\\&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\\\&logo=docker\\\&logoColor=white))
-![Linux]\([https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\\&logo=linux\\&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\\\&logo=linux\\\&logoColor=black))
-![Postman]\([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\\&logo=postman\\&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\\\&logo=postman\\\&logoColor=white))
+### Tools
 
-\---
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-\## Projects
+---
 
-\* \*\*E-commerce API\*\*
-  Backend API for products, users, carts, orders, and e-commerce operations.
+## Projects
 
-\* \*\*Authentication API\*\*
-  Backend API for user authentication and authorization.
+* **E-commerce API**
+Backend API for products, users, carts, orders, and e-commerce operations.
 
-\* \*\*Online Code Compiler\*\*
-  Backend service for compiling and executing code through an API.
+* **Authentication API**
+Backend API for user authentication and authorization.
 
-\* \*\*Messaging Platform\*\*
-  Backend system for real-time messaging and communication.
+* **Online Code Compiler**
+Backend service for compiling and executing code through an API.
 
-\* \*\*File Storage API\*\*
-  Backend API for uploading, storing, and managing files.
+* **Messaging Platform**
+Backend system for real-time messaging and communication.
 
-\* \*\*Social Media API\*\*
-  Backend API for users, posts, interactions, and social media functionality.
+* **File Storage API**
+Backend API for uploading, storing, and managing files.
 
-\* \*\*URL Shortener\*\*
-  Backend service for generating and managing shortened URLs.
+* **Social Media API**
+Backend API for users, posts, interactions, and social media functionality.
 
-\---
+* **URL Shortener**
+Backend service for generating and managing shortened URLs.
 
-\## Current Goals
+---
 
-\* Build real-world backend projects
-\* Develop secure and scalable REST APIs
-\* Improve database and system design skills
-\* Learn AWS and cloud deployment
-\* Build strong Docker and DevOps skills
+## Current Goals
 
-\---
+* Build real-world backend projects
+* Develop secure and scalable REST APIs
+* Improve database and system design skills
+* Learn AWS and cloud deployment
+* Build strong Docker and DevOps skills
 
-\## Connect With Me
+---
 
-\<div align="center">
+## Connect With Me
 
-[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\&logo=linkedin\\&logoColor=white)\](https://linkedin.com/in/muneerkhaled](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white\)]\(https://linkedin.com/in/muneerkhaled))
-[![Gmail]\([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\\&logo=gmail\\&logoColor=white)\](https://mail.google.com/mail/?view=cm&fs=1&to=muneerkhaled5@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\\\&logo=gmail\\\&logoColor=white\)]\(https://mail.google.com/mail/?view=cm\&fs=1\&to=muneerkhaled5@gmail.com))
-[![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\&logo=github\\&logoColor=white)\](https://github.com/MuneerKhaled](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github\\\&logoColor=white\)]\(https://github.com/MuneerKhaled))
+<div align="center">
 
-\</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muneerkhaled)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muneerkhaled5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MuneerKhaled)
 
-
-
-
-
+</div>
